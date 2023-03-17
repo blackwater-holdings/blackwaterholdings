@@ -175,6 +175,12 @@ p {
 }
 
 @media (max-width: 768px) {
+  h2 {
+    font-size: 44px !important;
+  }
+}
+
+@media (max-width: 768px) {
   h1 {
     font-size: 44px !important;
   }
